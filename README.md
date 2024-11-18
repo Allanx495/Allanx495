@@ -18,7 +18,7 @@
 ## 🔥 Fun Fact
 - 🐎 🎠My favorite movie genre is westerns.
 
-[Check out my W3Schools](https://www.your-w3schools-profile-link.com/allanx4)
+[Check out my W3Schools](https://www.w3profile.com/allanx4)
 
 
 
