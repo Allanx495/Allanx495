@@ -1,30 +1,73 @@
-# ✌️ Hi, I’m Allan Ortiz ✌️ 
-![Daily Motivation:](https://github.com/Allanx495/Allanx495/blob/f1ca22cc5146f99cb910de7a25d35a3648152d2e/Warren-Buffett-2.jpg)
+# ✌️ Hi, I'm Allan Ortiz ✌️
 
-![Education:](https://github.com/Allanx495/Allanx495/blob/f1ca22cc5146f99cb910de7a25d35a3648152d2e/University-of-California-Riverside-lOGO.jpg)
+<div align="center">
+  <img src="https://github.com/Allanx495/Allanx495/blob/main/astronaut-image.jpg?raw=true" alt="Astronaut Image" width="200" height="200">
+</div>
 
-## 👀 What I’m Interested In
+---
+
+## 💡 About Me
+
+- 🎓 **Information Systems** student at **UC Riverside**
+- 🌱 Currently learning **SQL**, **Azure**, and **Front-end + APIs**
+- ⚽ Soccer enthusiast, movie lover (favorite genre: Westerns 🎥)
+- 🤝 Open to collaborating on **exciting projects!**
+
+---
+
+<div align="center">
+  <img src="https://github.com/Allanx495/Allanx495/blob/main/Warren-Buffett.jpg?raw=true" alt="Warren Buffett Quote" width="400">
+  <br>
+  <em>"The best investment you can make is in yourself."</em>
+</div>
+
+---
+
+## 🔭 What I'm Interested In
+
 - 🌐 Networking
-- ⚽️ Soccer 
-- 🎬 Watching movies and Sitcoms 
-  
-## 🚀 What I’m Currently Learning
+- 🎮 Watching movies and sitcoms
+- 🖥️ Building front-end and API integrations
+
+---
+
+## 🛠️ What I'm Currently Learning
+
 - SQL
 - Azure
-- Front-end + API
+- Front-end Development
 
-## What I’m Looking to Collaborate On
-- As many projects as possible!
+---
 
-## 📫 How to Reach Me
-- Discord: aluchihaa
+## 🏆 Featured Work
 
-## 🔥 Fun Fact
-- 🐎 🎠My favorite movie genre is westerns.
+<div align="center">
+  <img src="https://github.com/Allanx495/Allanx495/blob/main/UC-Riverside.jpg?raw=true" alt="UC Riverside Logo" width="200">
+  <br>
+  <strong>Popular Repositories</strong>
+</div>
 
-[Check out my W3Schools](https://www.w3profile.com/allanx4)
+### [Frontend-API](https://github.com/Allanx495/frontend-api)
+- A beginner-friendly API project
 
-![](https://github.com/Allanx495/Allanx495/blob/16361120c6cec44395285e45e0589f882154e6ff/messi-1805-2.jpg)
+---
+
+## 🌟 Fun Fact
+
+- 🐎 My favorite movie genre is Westerns!
+
+---
+
+## 📬 How to Reach Me
+
+- Discord: **aluchihaa**
+- [Check out my W3Schools profile](https://www.w3profile.com/allanx4)
+
+---
+
+<div align="center">
+  <img src="https://github.com/Allanx495/Allanx495/blob/main/messi.jpg?raw=true" alt="Messi" width="300">
+</div>
 
 <!---
 Allanx495/Allanx495 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
