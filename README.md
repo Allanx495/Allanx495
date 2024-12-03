@@ -2,6 +2,7 @@
 
 ## 👀 What I’m Interested In
 - 🌐 Networking
+- ⚽️ Soccer 
 - 🎬 Watching movies and Sitcoms 
   
 ## 🚀 What I’m Currently Learning
