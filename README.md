@@ -41,7 +41,6 @@
 - Navicat
 - VS/Jupyter Notebook/Google Colab
 - Tableau
-- DataBricks
 - Azure
   
 
