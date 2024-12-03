@@ -12,7 +12,7 @@
 ---
 
 <div align="center">
-  <img src="https://github.com/Allanx495/Allanx495/blob/main/Warren-Buffett.jpg?raw=true](https://github.com/Allanx495/Allanx495/blob/f1ca22cc5146f99cb910de7a25d35a3648152d2e/Warren-Buffett-2.jpg" alt="Warren Buffett Quote" width="400">
+  <img src="https://github.com/Allanx495/Allanx495/blob/f1ca22cc5146f99cb910de7a25d35a3648152d2e/Warren-Buffett-2.jpg" alt="Warren Buffett Quote" width="400">
   <br>
   <em>"The best investment you can make is in yourself."</em>
 </div>
@@ -40,7 +40,7 @@
 <div align="center">
   <img src="https://github.com/Allanx495/Allanx495/blob/f1ca22cc5146f99cb910de7a25d35a3648152d2e/University-of-California-Riverside-lOGO.jpg" alt="UC Riverside Logo" width="200">
   <br>
-  <strong>Popular Repositories</strong>
+  <strong>B.S. in Information Systems</strong>
 </div>
 
 
