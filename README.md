@@ -27,11 +27,27 @@
 - 🖥️ Building front-end and API integrations
 
 ---
+## 🧩 Skills:
+
+- MySQL
+- SQL
+- Python
+- Excel
+
+
+## 💻 Software:
+
+- Navicat
+- VS/Jupyter Notebook/Google Colab
+- Tableau
+- DataBricks
+- Azure
+  
+
 
 ## 🛠️ What I'm Currently Learning
 
-- SQL
-- Azure
+- DataBricks
 - Front-end Development
 
 ---
