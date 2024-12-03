@@ -1,9 +1,5 @@
 # ✌️ Hi, I'm Allan Ortiz ✌️
 
-<div align="center">
-  <img src="https://github.com/Allanx495/Allanx495/blob/main/astronaut-image.jpg?raw=true" alt="Astronaut Image" width="200" height="200">
-</div>
-
 ---
 
 ## 💡 About Me
@@ -16,7 +12,7 @@
 ---
 
 <div align="center">
-  <img src="https://github.com/Allanx495/Allanx495/blob/main/Warren-Buffett.jpg?raw=true" alt="Warren Buffett Quote" width="400">
+  <img src="https://github.com/Allanx495/Allanx495/blob/main/Warren-Buffett.jpg?raw=true](https://github.com/Allanx495/Allanx495/blob/f1ca22cc5146f99cb910de7a25d35a3648152d2e/Warren-Buffett-2.jpg" alt="Warren Buffett Quote" width="400">
   <br>
   <em>"The best investment you can make is in yourself."</em>
 </div>
@@ -39,16 +35,14 @@
 
 ---
 
-## 🏆 Featured Work
+## 📝 Education
 
 <div align="center">
-  <img src="https://github.com/Allanx495/Allanx495/blob/main/UC-Riverside.jpg?raw=true" alt="UC Riverside Logo" width="200">
+  <img src="https://github.com/Allanx495/Allanx495/blob/f1ca22cc5146f99cb910de7a25d35a3648152d2e/University-of-California-Riverside-lOGO.jpg" alt="UC Riverside Logo" width="200">
   <br>
   <strong>Popular Repositories</strong>
 </div>
 
-### [Frontend-API](https://github.com/Allanx495/frontend-api)
-- A beginner-friendly API project
 
 ---
 
@@ -66,7 +60,7 @@
 ---
 
 <div align="center">
-  <img src="https://github.com/Allanx495/Allanx495/blob/main/messi.jpg?raw=true" alt="Messi" width="300">
+  <img src="https://github.com/Allanx495/Allanx495/blob/16361120c6cec44395285e45e0589f882154e6ff/messi-1805-2.jpg" alt="Messi" width="300">
 </div>
 
 <!---
