@@ -6,7 +6,6 @@
 <h2>💡 About Me</h2>
 
 - 🎓 **Information Systems** student at **UC Riverside**
-- 🌱 Currently learning **SQL**, **Azure**, and **Front-end + APIs**
 - ⚽ Soccer enthusiast, movie lover (favorite genre: Westerns 🎥)
 - 🤝 Open to collaborating on **exciting projects!**
 
