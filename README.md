@@ -1,7 +1,7 @@
 # ✌️ Hi, I'm Allan Ortiz ✌️
 
 ---
-
+<div align="center"> 
 ## 💡 About Me
 
 - 🎓 **Information Systems** student at **UC Riverside**
@@ -18,7 +18,7 @@
 </div>
 
 ---
-
+<div align="center">
 ## 🔭 What I'm Interested In
 
 - 🌐 Networking
