@@ -21,7 +21,7 @@
 
 [Check out my W3Schools](https://www.w3profile.com/allanx4)
 
-![image alt]([https://github.com/Allanx495/Allanx495/blob/16361120c6cec44395285e45e0589f882154e6ff/messi-1805-2.jpg))
+![image alt](https://github.com/Allanx495/Allanx495/blob/16361120c6cec44395285e45e0589f882154e6ff/messi-1805-2.jpg)
 
 <!---
 Allanx495/Allanx495 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
