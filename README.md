@@ -24,6 +24,7 @@
 - 🌐 Networking
 - 🎮 Watching movies and sitcoms
 - 🖥️ Building front-end and API integrations
+  
 
 ---
 ## 🧩 Skills:
@@ -32,6 +33,7 @@
 - SQL
 - Python
 - Excel
+
 
 
 ## 💻 Software:
@@ -44,10 +46,12 @@
   
 
 
+
 ## 🛠️ What I'm Currently Learning
 
 - DataBricks
 - Front-end Development
+
 
 ---
 
