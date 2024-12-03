@@ -1,9 +1,9 @@
 <div align="center">
-#✌️ Hi, I'm Allan Ortiz ✌️
+<h1>✌️ Hi, I'm Allan Ortiz ✌️</h1> 
 
 ---
 <div align="center"> 
-##💡 About Me
+<h2>💡 About Me</h2>
 
 - 🎓 **Information Systems** student at **UC Riverside**
 - 🌱 Currently learning **SQL**, **Azure**, and **Front-end + APIs**
