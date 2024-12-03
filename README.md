@@ -20,7 +20,7 @@
 
 ---
 <div align="center">
-## 🔭 What I'm Interested In
+  <h2>🔭 What I'm Interested In</h2>
 
 - 🌐 Networking
 - 🎮 Watching movies and sitcoms
