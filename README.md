@@ -1,4 +1,7 @@
-# ✌️ Hi, I’m Allan Ortiz ✌️
+# ✌️ Hi, I’m Allan Ortiz ✌️ 
+![Daily Motivation:](https://github.com/Allanx495/Allanx495/blob/f1ca22cc5146f99cb910de7a25d35a3648152d2e/Warren-Buffett-2.jpg)
+
+![Education:](https://github.com/Allanx495/Allanx495/blob/f1ca22cc5146f99cb910de7a25d35a3648152d2e/University-of-California-Riverside-lOGO.jpg)
 
 ## 👀 What I’m Interested In
 - 🌐 Networking
@@ -21,7 +24,7 @@
 
 [Check out my W3Schools](https://www.w3profile.com/allanx4)
 
-![image alt](https://github.com/Allanx495/Allanx495/blob/16361120c6cec44395285e45e0589f882154e6ff/messi-1805-2.jpg)
+![](https://github.com/Allanx495/Allanx495/blob/16361120c6cec44395285e45e0589f882154e6ff/messi-1805-2.jpg)
 
 <!---
 Allanx495/Allanx495 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
