@@ -14,7 +14,7 @@
 <div align="center">
   <img src="https://github.com/Allanx495/Allanx495/blob/f1ca22cc5146f99cb910de7a25d35a3648152d2e/Warren-Buffett-2.jpg" alt="Warren Buffett Quote" width="400">
   <br>
-  <em>Daily Motivation: "The best investment you can make is in yourself."</em>
+  <em>Daily Motivation</em>
 </div>
 
 ---
