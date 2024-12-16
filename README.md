@@ -22,8 +22,8 @@
   <h2>🔭 What I'm Interested In</h2>
 
 - 🌐 Networking
-- 🎮 Watching movies and sitcoms
 - 🖥️ Building front-end and API integrations
+- 🎮 Watching movies and sitcoms
   
 
 ---
