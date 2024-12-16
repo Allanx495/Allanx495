@@ -6,7 +6,7 @@
 <h2>💡 About Me</h2>
 
 - 🎓 **Information Systems** student at **UC Riverside**
-- ⚽ Soccer enthusiast, movie lover (favorite genre: Westerns 🎥)
+- ⚽ Soccer enthusiast, movie lover 
 - 🤝 Open to collaborating on **exciting projects!**
 
 ---
