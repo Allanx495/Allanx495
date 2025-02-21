@@ -32,7 +32,9 @@
 - MySQL
 - SQL
 - Python
-- Excel
+- Tableau
+- Data Analysis
+- Data Visualization
 
 
 
