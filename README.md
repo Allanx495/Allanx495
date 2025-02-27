@@ -6,7 +6,7 @@
 <h2>💡 About Me</h2>
 
 - 🎓 **Information Systems** student at **UC Riverside**
-- ⚽ Soccer enthusiast, movie lover 
+- ⚽ Soccer enthusiast & movie lover 
 - 🤝 Open to collaborating on **exciting projects!**
 
 ---
@@ -22,8 +22,8 @@
   <h2>🔭 What I'm Interested In</h2>
 
 - 🌐 Networking
-- 🖥️ Building front-end and API integrations
-- 🎮 Watching movies and sitcoms
+- 📊 Data
+- 📺 Watching movies and sitcoms 
   
 
 ---
@@ -31,6 +31,7 @@
 
 - MySQL
 - SQL
+- PostgreSQL
 - Python
 - Tableau
 - Data Analysis
@@ -52,6 +53,7 @@
 
 - DataBricks
 - Front-end Development
+- ETL pipelines
 
 
 ---
