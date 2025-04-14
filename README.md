@@ -33,9 +33,7 @@
 - SQL
 - PostgreSQL
 - Python
-- Tableau
-- Data Analysis
-- Data Visualization
+- Data analysis/visualization/manipulation/modeling
 
 
 
@@ -43,7 +41,7 @@
 
 - Navicat
 - VS/Jupyter Notebook/Google Colab
-- Tableau
+- Tableau/Power BI
 - Azure
   
 
@@ -52,7 +50,7 @@
 ## 🛠️ What I'm Currently Learning
 
 - DataBricks
-- Front-end Development
+- Webscraping
 - ETL pipelines
 
 
