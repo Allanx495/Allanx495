@@ -23,7 +23,7 @@
 
 - 🌐 Networking
 - 📊 Data
-- 📺 Watching movies and sitcoms 
+- 📺 Watching movies and sports 
   
 
 ---
