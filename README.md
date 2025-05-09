@@ -55,26 +55,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN%2FALLANNOEORTIZ-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/allan-noe-ortiz)
 
-
-
-
-## 💻 Software:
-
-- Navicat
-- VS/Jupyter Notebook/Google Colab
-- Tableau/Power BI
-- Azure
-  
-
-
-
-## 🛠️ What I'm Currently Learning
-
-- DataBricks
-- Webscraping
-- ETL pipelines
-
-
 ---
 
 ## 📝 Education
