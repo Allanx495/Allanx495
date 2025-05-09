@@ -5,7 +5,6 @@
 <div align="center"> 
 <h2>💡 About Me</h2>
 
-- 🎓 **Information Systems** student at **UC Riverside**
 - ⚽ Soccer & Movie enthusiast  
 - 🤝 Open to collaborating on **exciting projects!**
 
