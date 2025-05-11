@@ -1,7 +1,6 @@
 <div align="center">
 <h1> Hello! I'm Allan Ortiz </h1> 
 
----
 <div align="center"> 
 <h2>💡 About Me</h2>
 
