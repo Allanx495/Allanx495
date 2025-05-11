@@ -4,7 +4,7 @@
 
 <h1 align="center">I'm Allan Ortiz</h1>
 
-
+<div align="center"> 
 <h2>💡 About Me</h2>
 
 - ⚽ Soccer & Movie enthusiast  
