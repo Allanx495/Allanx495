@@ -1,9 +1,6 @@
-<table>
-  <tr>
-    <td><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2wwOTY1MGJmMjh2dmRzeGsybXNlOTBrbDVlOXpheGl0eDUwOWE3dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/h408T6Y5GfmXBKW62l/giphy.gif" width="120"/></td>
-    <td><h1>Hello! I'm Allan Ortiz</h1></td>
-  </tr>
-</table>
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2wwOTY1MGJmMjh2dmRzeGsybXNlOTBrbDVlOXpheGl0eDUwOWE3dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/h408T6Y5GfmXBKW62l/giphy.gif" alt="Welcome GIF" width="80" style="vertical-align: middle;"/>
+<span style="font-size: 26px; font-weight: bold;">I'm Allan Ortiz</span>
+
 
 
 <div align="center"> 
