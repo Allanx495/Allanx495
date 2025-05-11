@@ -16,7 +16,7 @@
 
 ---
 <div align="center">
-  <h2>🔭 What I'm Interested In</h2>
+  <h2>🔭 What I'm Interested In:</h2>
 
 - 🌐 Networking
 - 📊 Data Science/ Machine Learning/ Data Engineering
