@@ -8,7 +8,7 @@
 
 
 <div align="center"> 
-<h2>Allan Ortiz</h2>
+<h2>Im Allan Ortiz!</h2>
 
 ---
 
@@ -69,10 +69,11 @@
 
 ---
 
-## 🌟 Fun Fact
+## 🌟 My offscreen interests:
 
-- 🐎 My favorite movie genre is Westerns!
-
+-  I love western movies! 
+-  Sports ⚽⚾🏈🎱
+-  Watching Sitcoms
 ---
 
 ## 📬 How to Reach Me
