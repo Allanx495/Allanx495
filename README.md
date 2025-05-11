@@ -8,10 +8,7 @@
 
 
 <div align="center"> 
-<h2>💡 About Me</h2>
-
-- ⚽ Soccer & Movie enthusiast  
-- 🤝 Open to collaborating on **exciting projects!**
+<h2>Allan Ortiz</h2>
 
 ---
 
