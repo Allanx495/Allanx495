@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2wwOTY1MGJmMjh2dmRzeGsybXNlOTBrbDVlOXpheGl0eDUwOWE3dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/h408T6Y5GfmXBKW62l/giphy.gif" alt="Welcome GIF" width="150" style="vertical-align: middle;"/>
-  <span style="font-size: 30px; font-weight: bold;">......Hi, I'm Allan Ortiz</span>
+  <span style="font-size: 30px; font-weight: bold;">......I'm Allan Ortiz</span>
 </p>
 
 <div align="center"> 
