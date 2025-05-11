@@ -43,13 +43,6 @@
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white)
 
 ---
-
-## 🌐 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN%2FALLANNOEORTIZ-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/allan-noe-ortiz)
-
----
-
 ## 📝 Education
 
 <div align="center">
@@ -68,7 +61,7 @@
 -  Watching Sitcoms
 ---
 
-## 🌐 Connect with Me
+## 🌐 Connect with Me:
 
 - [![LinkedIn](https://img.shields.io/badge/LINKEDIN%2FALLANNOEORTIZ-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/allan-noe-ortiz)
 - Discord: **aluchihaa**
