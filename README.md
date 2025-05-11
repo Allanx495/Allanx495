@@ -23,8 +23,8 @@
   <h2>🔭 What I'm Interested In</h2>
 
 - 🌐 Networking
-- 📊 Data
-- 📺 Watching movies and sports 
+- 📊 Data Science/ Machine Learning/ Data Engineering
+
   
 
 ---
