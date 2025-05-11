@@ -1,7 +1,6 @@
-<h1>
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2wwOTY1MGJmMjh2dmRzeGsybXNlOTBrbDVlOXpheGl0eDUwOWE3dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/h408T6Y5GfmXBKW62l/giphy.gif" width="150" style="vertical-align: middle;"/>
-  I'm Allan Ortiz
-</h1>
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2wwOTY1MGJmMjh2dmRzeGsybXNlOTBrbDVlOXpheGl0eDUwOWE3dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/h408T6Y5GfmXBKW62l/giphy.gif" alt="Welcome GIF" width="400"/>
+### Hi, I'm Allan Ortiz
+
 
 <div align="center"> 
 <h2>💡 About Me</h2>
