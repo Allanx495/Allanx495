@@ -2,7 +2,7 @@
 <div align="center"> 
 <h2><img src="https://steemitimages.com/0x0/https://steemitimages.com/DQmbaedeTrFuED61jDHAqmZRv2VeX3tWA6pyBi4zoR5T26o/helloworld.gif" alt="Hello World GIF" width="150"/>
 . . . . . .  Im Allan Ortiz ✌️ </h2>
----
+
 ## 💻Languages & Software🛠️
 
 - ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
