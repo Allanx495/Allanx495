@@ -1,11 +1,3 @@
-<h1>
-  
-<div align="center"> 
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2wwOTY1MGJmMjh2dmRzeGsybXNlOTBrbDVlOXpheGl0eDUwOWE3dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/h408T6Y5GfmXBKW62l/giphy.gif" width="250" style="vertical-align: middle;"/>
-</h1>
-
-
-
 
 <div align="center"> 
 <h2><img src="https://steemitimages.com/0x0/https://steemitimages.com/DQmbaedeTrFuED61jDHAqmZRv2VeX3tWA6pyBi4zoR5T26o/helloworld.gif" alt="Hello World GIF" width="150"/>
