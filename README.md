@@ -1,7 +1,7 @@
 
 <div align="center"> 
 <h2><img src="https://steemitimages.com/0x0/https://steemitimages.com/DQmbaedeTrFuED61jDHAqmZRv2VeX3tWA6pyBi4zoR5T26o/helloworld.gif" alt="Hello World GIF" width="150"/>
-......Im Allan Ortiz :) </h2>
+......Im Allan Ortiz 😁 </h2>
   <img src="https://github.com/Allanx495/Allanx495/blob/f1ca22cc5146f99cb910de7a25d35a3648152d2e/Warren-Buffett-2.jpg" alt="Warren Buffett Quote" width="400">
   <br>
   <em>Daily Motivation</em>
