@@ -37,7 +37,7 @@
 
 - 🌐 Networking
 - 📊 Data Science/ Machine Learning/ Data Engineering
-<div>
+---
 
 ## 🌟 Interests beyond the keyboard:
 
