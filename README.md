@@ -38,7 +38,7 @@
 - 🌐 Networking
 - 📊 Data Science/ Machine Learning/ Data Engineering
 
-## 🌟 My offscreen interests:
+## 🌟 Interests beyond the keyboard:
 
 -  I love western movies! 
 -  Sports ⚽⚾🏈🎱
