@@ -25,7 +25,7 @@
 ## 📝 Education
 
 <div align="center">
-  <img src="https://github.com/Allanx495/Allanx495/blob/f1ca22cc5146f99cb910de7a25d35a3648152d2e/University-of-California-Riverside-lOGO.jpg" alt="UC Riverside Logo" width="200">
+  <img src="assets/ucr-highlanders.gif" width="300" alt="UC Riverside Highlanders">
   <br>
   <strong>B.S. in Information Systems</strong>
 </div>
