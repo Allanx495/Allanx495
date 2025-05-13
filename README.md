@@ -46,7 +46,7 @@
 -  Watching Sitcoms
 ---
 
-## 🌐 Connect with Me:
+##  Connect with Me:
 
 - [![LinkedIn](https://img.shields.io/badge/LINKEDIN%2FALLANNOEORTIZ-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/allan-noe-ortiz)
 - Discord: **aluchihaa**
