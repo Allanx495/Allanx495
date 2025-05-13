@@ -1,7 +1,7 @@
 
 <div align="center"> 
-<h2><img src="https://media.tenor.com/aCQAWmp5Jd8AAAAi/hello-wave.gif" width="150"/>
-. . . . . .  Im Allan Ortiz ✌️ </h2>
+<h2>Im Allan Ortiz ✌️ 
+<img src="https://media.tenor.com/aCQAWmp5Jd8AAAAi/hello-wave.gif" width="150"/></h2>
 
 ## 💻Languages & Software🛠️
 
