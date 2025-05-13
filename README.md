@@ -25,7 +25,7 @@
 ## 📝 Education
 
 <div align="center">
-  <img src="assets/ucr-highlanders.gif" width="300" alt="UC Riverside Highlanders">
+  <img src="https://www.gifservice.fr/en/gif/sports-n-c-a-a-d1-national-collegiate-association-c-california-uc-riverside-highlanders-g13086-p291920-fsmall.gif" width="200" alt="UC Riverside Highlanders">
   <br>
   <strong>B.S. in Information Systems</strong>
 </div>
