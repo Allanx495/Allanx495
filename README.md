@@ -25,7 +25,7 @@
 ## 📝 Education
 
 <div align="center">
-  <img src="https://www.gifservice.fr/en/gif/sports-n-c-a-a-d1-national-collegiate-athletic-association-c-california-uc-riverside-highlanders-g13086-p291920-fsmall.gif" width="200" alt="UC Riverside Highlanders Logo">
+   <img src="https://raw.githubusercontent.com/Allanx495/Allanx495/main/291920-california-uc-riverside-highlanders-c-n-c-a-a-d1-national-collegiate-athletic-association-sports.gif" width="200" alt="UC Riverside Highlanders Logo">
   <br>
   <strong>B.S. in Information Systems</strong>
 </div>
