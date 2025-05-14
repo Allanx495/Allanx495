@@ -27,11 +27,11 @@
 ## 🧰 Languages & Software 🛠️
 
 <p align="center">
-  <img src="https://github.com/Allanx495/Allanx495/raw/main/SQL2.0.png" width="110"/>
-  <img src="https://github.com/Allanx495/Allanx495/raw/main/PowerBI1.0.png" width="110"/>
-  <img src="https://github.com/Allanx495/Allanx495/raw/main/Tableau1.0.png" width="110"/>
-  <img src="https://github.com/Allanx495/Allanx495/raw/main/VScode1.0.png" width="110"/>
-  <img src="https://github.com/Allanx495/Allanx495/raw/main/Azure1.0.png" width="110"/>
+  <img src="https://github.com/Allanx495/Allanx495/raw/main/SQL2.0.png" width="110" height="40"/>
+  <img src="https://github.com/Allanx495/Allanx495/raw/main/PowerBI1.0.png" width="110" height="40"/>
+  <img src="https://github.com/Allanx495/Allanx495/raw/main/Tableau1.0.png" width="110" height="40"/>
+  <img src="https://github.com/Allanx495/Allanx495/raw/main/VScode1.0.png" width="110" height="40"/>
+  <img src="https://github.com/Allanx495/Allanx495/raw/main/Azure1.0.png" width="110" height="40"/>
 </p>
 
 
