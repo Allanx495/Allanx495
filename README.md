@@ -24,11 +24,12 @@
 ## 🧰 Languages & Software 🛠️
 
 - <img src="assets/icons/sql.png" width="20"/> [!SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logoColor=white)
-- <img src="assets/icons/Tableau-Symbol.png" width="20"/> [!Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logoColor=white)
-- <img src="assets/icons/power-bi.svg" width="20"/> [!Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logoColor=black)
-- <img src="assets/icons/navicat-for-sqlite-logo.png" width="20"/> [!Navicat](https://img.shields.io/badge/Navicat-29b2fe?style=for-the-badge&logoColor=white)
-- <img src="assets/icons/azure-icon-2048x2048-6tt08spf.png" width="20"/> [!Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logoColor=white)
-- <img src="assets/icons/Visual_Studio_Code_1.35_icon.svg.png" width="20"/> [!VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logoColor=white)
+- <img src="assets/icons/tableau.png" width="20"/> [!Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logoColor=white)
+- <img src="assets/icons/powerbi.svg" width="20"/> [!Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logoColor=black)
+- <img src="assets/icons/navicat.png" width="20"/> [!Navicat](https://img.shields.io/badge/Navicat-29b2fe?style=for-the-badge&logoColor=white)
+- <img src="assets/icons/azure.png" width="20"/> [!Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logoColor=white)
+- <img src="assets/icons/vscode.png" width="20"/> [!VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logoColor=white)
+
 
 ---
 ## 📝 Education
