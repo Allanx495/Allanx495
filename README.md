@@ -24,13 +24,16 @@
 ## 🧰 Languages & Software 🛠️
 ## 🧰 Languages & Software 🛠️
 
+## 🧰 Languages & Software 🛠️
+
 <p align="center">
-  <img src="https://github.com/Allanx495/Allanx495/blob/main/assets/badges/SQL2.0.png?raw=true" width="120"/>
-  <img src="https://github.com/Allanx495/Allanx495/blob/main/assets/badges/PowerBI1.0.png?raw=true" width="120"/>
-  <img src="https://github.com/Allanx495/Allanx495/blob/main/assets/badges/Tableau1.0.png?raw=true" width="120"/>
-  <img src="https://github.com/Allanx495/Allanx495/blob/main/assets/badges/VScode1.0.png?raw=true" width="120"/>
-  <img src="https://github.com/Allanx495/Allanx495/blob/main/assets/badges/Azure1.0.png?raw=true" width="120"/>
+  <img src="https://github.com/Allanx495/Allanx495/raw/main/SQL2.0.png" width="120"/>
+  <img src="https://github.com/Allanx495/Allanx495/raw/main/PowerBI1.0.png" width="120"/>
+  <img src="https://github.com/Allanx495/Allanx495/raw/main/Tableau1.0.png" width="120"/>
+  <img src="https://github.com/Allanx495/Allanx495/raw/main/VScode1.0.png" width="120"/>
+  <img src="https://github.com/Allanx495/Allanx495/raw/main/Azure1.0.png" width="120"/>
 </p>
+
 
 
 
