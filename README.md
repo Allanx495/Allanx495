@@ -22,10 +22,16 @@
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white)
 
 ## 🧰 Languages & Software 🛠️
-[![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://www.tableau.com/)
-[![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
-[![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com/)
-[![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
+## 🧰 Languages & Software 🛠️
+
+<p align="center">
+  <img src="https://github.com/Allanx495/Allanx495/blob/main/assets/badges/SQL2.0.png?raw=true" width="120"/>
+  <img src="https://github.com/Allanx495/Allanx495/blob/main/assets/badges/PowerBI1.0.png?raw=true" width="120"/>
+  <img src="https://github.com/Allanx495/Allanx495/blob/main/assets/badges/Tableau1.0.png?raw=true" width="120"/>
+  <img src="https://github.com/Allanx495/Allanx495/blob/main/assets/badges/VScode1.0.png?raw=true" width="120"/>
+  <img src="https://github.com/Allanx495/Allanx495/blob/main/assets/badges/Azure1.0.png?raw=true" width="120"/>
+</p>
+
 
 
 ---
