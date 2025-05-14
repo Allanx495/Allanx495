@@ -22,14 +22,10 @@
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white)
 
 ## 🧰 Languages & Software 🛠️
-## 🧰 Languages & Software 🛠️
-
-- <img src="https://github.com/Allanx495/Allanx495/blob/main/SQLLogo.png?raw=true" width="20"/> [!SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logoColor=white)
-- <img src="https://github.com/Allanx495/Allanx495/blob/main/Tableau-Symbol.png?raw=true" width="20"/> [!Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logoColor=white)
-- <img src="https://github.com/Allanx495/Allanx495/blob/main/power-bi.svg?raw=true" width="20"/> [!Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logoColor=black)
-- <img src="https://github.com/Allanx495/Allanx495/blob/main/navicat-for-sqlite-logo.png?raw=true" width="20"/> [!Navicat](https://img.shields.io/badge/Navicat-29b2fe?style=for-the-badge&logoColor=white)
-- <img src="https://github.com/Allanx495/Allanx495/blob/main/azure-icon-2048x2048-6tt08spf.png?raw=true" width="20"/> [!Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logoColor=white)
-- <img src="https://github.com/Allanx495/Allanx495/blob/main/Visual_Studio_Code_1.35_icon.svg.png?raw=true" width="20"/> [!VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logoColor=white)
+[![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://www.tableau.com/)
+[![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
+[![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com/)
+[![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
 
 
 ---
