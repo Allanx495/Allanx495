@@ -3,7 +3,7 @@
 <h2>Hello there!  Im Allan Ortiz 
 <img src="https://media.tenor.com/aCQAWmp5Jd8AAAAi/hello-wave.gif" width="150"/></h2>
 
-## 💻 Tech Stack
+## 💻 Tech Stack:
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
@@ -22,7 +22,7 @@
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white)
 
 ---
-## 📝 Education
+## 📝 Education:
 
 <div align="center">
    <img src="https://raw.githubusercontent.com/Allanx495/Allanx495/main/291920-california-uc-riverside-highlanders-c-n-c-a-a-d1-national-collegiate-athletic-association-sports.gif" width="200" alt="UC Riverside Highlanders Logo">
