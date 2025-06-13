@@ -36,7 +36,7 @@
   <h2>🔭 What I'm Interested In:</h2>
 
 - 🌐 Networking
-- 📊 Data Science/ Machine Learning/ Data Engineering
+- 📊 Data Science/ Machine Learning/ Data Engineering/ AI
 ---
 
 ## 🌟 Interests beyond the keyboard:
