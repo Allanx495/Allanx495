@@ -3,7 +3,7 @@
 <h2>Hello there!  Im Allan Ortiz 
 <img src="https://media.tenor.com/aCQAWmp5Jd8AAAAi/hello-wave.gif" width="150"/></h2>
 
-## 💻Languages & Software🛠️
+## 💻 Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
