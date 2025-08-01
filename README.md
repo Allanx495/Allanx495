@@ -25,7 +25,7 @@
 
 
 ---
-## 📝 Education:
+##  Education:
 
 <div align="center">
    <img src="https://raw.githubusercontent.com/Allanx495/Allanx495/main/291920-california-uc-riverside-highlanders-c-n-c-a-a-d1-national-collegiate-athletic-association-sports.gif" width="200" alt="UC Riverside Highlanders Logo">
@@ -36,13 +36,13 @@
 
 ---
 <div align="center">
-  <h2>🔭 What I'm Interested In:</h2>
+  <h2> What I'm Interested In:</h2>
 
 -  Networking
 -  Data Science/ Machine Learning/ Data Engineering/ AI
 ---
 
-## 🌟 Interests beyond the keyboard:
+##  Interests beyond the keyboard:
 
 -  I love western movies! 
 -  Sports ⚽⚾🏈🎱
